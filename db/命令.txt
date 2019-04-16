@@ -1,0 +1,1 @@
+sequelize-auto -h 127.0.0.1 -d sql0416 -u root -x root -p 3306
