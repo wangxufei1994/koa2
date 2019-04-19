@@ -12,7 +12,13 @@ GET请求参数         ctx.query/ctx.request.query
 
 # git 常用指令
 git init  初始化
+
 git clone [url] (nename) 克隆项目
+
 git status 查询项目状态
+
 git add . 将当前目录的文件放到暂存区
+
 git commit -m 'first commit'  提交已经add进来的改动
+
+git push 上传
